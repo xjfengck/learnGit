@@ -1,1 +1,3 @@
 this is the first file used to do test.
+i am tring to use rabbitVCS to manage git.
+It seems very good.
