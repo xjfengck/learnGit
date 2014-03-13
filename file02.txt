@@ -1,2 +1,3 @@
 this is the second file used to do test.
 how to change the content of files in repository?
+the same as initialization, use git add and git commit.
